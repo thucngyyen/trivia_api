@@ -18,8 +18,8 @@ Completing this trivia app will give you the ability to structure plan, implemen
 
 There are `TODO` comments throughout project. Start by reading the READMEs in:
 
-1. [`./frontend/`](/frontend/README.md)
-2. [`./backend/`](/backend/README.md)
+1. [`./frontend/`](./starter/frontend/README.md)
+2. [`./backend/`](./starter/backend/README.md)
 
 We recommend following the instructions in those files in order. This order will look familiar from our prior work in the course.
 
